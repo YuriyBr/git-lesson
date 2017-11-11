@@ -1,5 +1,9 @@
 This is 1 row.
 Today 11.11.17
+<<<<<<< HEAD
 
 
 Ok I am the boss
+=======
+I am ready
+>>>>>>> ce0cff75379de994d7525e3f951c61e5165ef5c5
